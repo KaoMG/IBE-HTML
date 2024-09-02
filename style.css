@@ -1,0 +1,29 @@
+.parrafobanner { 
+    font-weight: 400;
+    color: rgb(110, 25, 221);
+    font-size: 16px;
+}
+.header-menu{
+    background-color: #00567e;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    
+    
+}
+p {
+    font-weight: 800;
+    
+}
+.logo1{
+    width: 100px;
+}
+
+h2{
+    font-size: 18px;
+}
+.pantallas{
+    margin: 180px;  
+}
